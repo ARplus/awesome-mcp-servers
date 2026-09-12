@@ -303,6 +303,7 @@ A growing set of community-developed and maintained servers demonstrates various
 - **[AniList](https://github.com/yuna0x0/anilist-mcp)** - AniList MCP server for accessing AniList API data
 - **[AnkiConnect](https://github.com/spacholski1225/anki-connect-mcp)** - AnkiConnect MCP server for interacting with Anki via AnkiConnect.
 - **[any-chat-completions-mcp](https://github.com/pyroprompts/any-chat-completions-mcp)** - Chat with any other OpenAI SDK Compatible Chat Completions API, like Perplexity, Groq, xAI and more
+- **[TeamAgent Canvas](https://github.com/AvatarGaia/canvas-mcp)** - TeamAgent Canvas MCP — 13 tools over streamable-http (staff & service cards, shop search, topics, activities) plus an npm stdio shim (`npx -y @avatargaia/canvas-mcp`) for desktop clients. Endpoint: https://agent.avatargaia.top/api/mcp/canvas
 - **[APISIX-MCP](https://github.com/api7/apisix-mcp)** - APISIX Model Context Protocol (MCP) server is used to bridge large language models (LLMs) with the APISIX Admin API, supporting querying and managing all resources in [Apache APISIX](https://github.com/apache/apisix).
 - **[Apple Notes](https://github.com/RafalWilinski/mcp-apple-notes)** - Talk with your Apple Notes
 - **[Apple Shortcuts](https://github.com/recursechat/mcp-server-apple-shortcuts)** - An MCP Server Integration with Apple Shortcuts
